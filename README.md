@@ -1,5 +1,7 @@
 # Blizymaps
 
+[Hosted Version](https://blizymaps.netlify.app/)
+
 A tiny Python project made using [Folium](https://python-visualization.github.io/folium/) and [Pandas](https://pandas.pydata.org/). 
 
 ## Features
